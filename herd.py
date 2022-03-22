@@ -1,9 +1,22 @@
-
+from dinosaurs import Dinosaurs
 
 class Herd:
     def __init__(self):
         self.dinosaurs = []
-        pass
-
+        
     def create_herd(self):
-        pass
+        self.dinosaurs.append(Dinosaurs("Charizard"))
+        self.dinosaurs.append(Dinosaurs("Earl Sinclair"))
+        self.dinosaurs.append(Dinosaurs("Denver the Last Dinosaur"))
+
+
+
+
+
+    
+
+
+
+       
+
+
