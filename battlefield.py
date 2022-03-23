@@ -22,10 +22,9 @@ class Battlefield:
         pass
 
     def show_dino_opponent_options(self):
-        print('This is what you can do.')
-        for 
         pass
-
+        
+       
     def show_robo_opponent_options(self):
         pass
 
